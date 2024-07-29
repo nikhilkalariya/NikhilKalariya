@@ -1,0 +1,35 @@
+{
+  "name": "nikhilkalariya",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.3.3",
+    "@next/third-parties": "^14.1.4",
+    "@vercel/speed-insights": "^1.0.12",
+    "lottie-react": "^2.4.0",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-fast-marquee": "^1.6.4",
+    "react-icons": "^5.0.1",
+    "react-toastify": "^10.0.5",
+    "sharp": "^0.33.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "css-loader": "^7.0.0",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "postcss": "^8",
+    "sass": "^1.74.1",
+    "sass-loader": "^14.1.1",
+    "style-loader": "^3.3.4",
+    "tailwindcss": "^3.3.0"
+  }
+}
