@@ -84,7 +84,7 @@ export const projectsData = [
         image: "",
     },
     {
-        id: 4,
+        id: 5,
         name: "Vega Innovation ",
         description:
             "Description: Developed a comprehensive ERP system is crete for for easy to remove paper work and excel entry also centralized system with dynamic data entry and group wise data entry excel data import and export from the table and document also dynamic structures wise create and hrms modal also provide user and employee and client managemen",
@@ -97,6 +97,20 @@ export const projectsData = [
             "PrimeReact",
             "Axios",
             "PrimeFlex",
+        ],
+        code: "",
+        role: "Software Developer",
+        demo: "",
+        image: "",
+    },
+    {
+        id: 6,
+        name: "Shopify POS UI Extension - Reshyne",
+        description:
+            "Created a Shopify POS UI Extension to integrate web products for seamless in-store checkout.Utilized Shopify APIs and App Bridge for real-time synchronization and a responsive UX, enhancing retail operations by bridging online sales channels. Technologies",
+        tools: [
+            "Reactjs",
+            "Shopify",
         ],
         code: "",
         role: "Software Developer",
