@@ -10,7 +10,13 @@ export const experiences = [
     id: 2,
     title: "Frontend Developer",
     company: "SysBulls Solutions",
-    duration: "(october 2023 - Present)"
+    duration: "(october 2023 - october 2024)"
   },
+  {
+    id: 3,
+    title: "Software Developer",
+    company: "Weserve code Pvt Ltd",
+    duration: "(october 2024 - present)" 
+  }
 
 ]

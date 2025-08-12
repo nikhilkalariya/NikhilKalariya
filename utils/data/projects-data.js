@@ -37,6 +37,8 @@ export const projectsData = [
             "Reactjs",
             "Tailwindcss",
             "Flowbite-React",
+            "Lottie-animation",
+            "Nextjs"
         ],
         role: "FrontEnd Developer",
         code: "",
@@ -45,16 +47,16 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: "Nikhil Kalariya Profile NextJs",
+        name: "Mediapeachy",
         description:
-            "Created a dynamic profile website using React, showcasing skills, projects, and experience. Implemented interactive components and animations to engage visitors, demonstrating proficiency in React and front-end development Used technolopgy is html,css,Nextjs,Tailwindcss,Typescript,Vercel,Scss",
+            " MediaPeachy is a digital marketing service provider specializing in global media placements andSEO enhancement. With an extensive catalog of premium news outlets, niche blogs, and themed websites, MediaPeachy empowers businesses to effectively reach their target audience through tailored content placement",
         tools: [
             "Html",
             "Css",
-            "Typescript",
-            "Nextjs",
+            "Javascript",
+            "Reactjs",
             "Tailwindcss",
-            "Lottie-animation",
+            "axios",
         ],
         code: "",
         role: "FrontEnd Developer",
@@ -81,18 +83,25 @@ export const projectsData = [
         demo: "",
         image: "",
     },
+    {
+        id: 4,
+        name: "Vega Innovation ",
+        description:
+            "Description: Developed a comprehensive ERP system is crete for for easy to remove paper work and excel entry also centralized system with dynamic data entry and group wise data entry excel data import and export from the table and document also dynamic structures wise create and hrms modal also provide user and employee and client managemen",
+        tools: [
+            "Reactjs",
+            "Html",
+            "Css",
+            "Javascript",
+            "Redux",
+            "PrimeReact",
+            "Axios",
+            "PrimeFlex",
+        ],
+        code: "",
+        role: "Software Developer",
+        demo: "",
+        image: "",
+    },
 ];
 
-// Do not remove any property.
-// Leave it blank instead as shown below
-
-// {
-//     id: 1,
-//     name: '',
-//     description: ',
-//     tools: [],
-//     role: '',
-//     code: '',
-//     demo: '',
-//     image: crefin,
-// },
