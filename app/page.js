@@ -16,8 +16,10 @@ async function getData() {
   }
 
   const data = await res.json();
+  console.log("data", data);
 
   const filtered = data.filter((item) => item?.cover_image).sort(() => Math.random() - 0.5);
+   console.log("filtered", filtered);
 
   return filtered;
 };
