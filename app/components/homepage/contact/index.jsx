@@ -28,14 +28,14 @@ function ContactSection() {
                 className="bg-[#8b98a5] p-2 rounded-full hover:bg-sky-400 hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={36}
               />
-              <span>{personalData.email}</span>
+              <span className='text-white'>{personalData.email}</span>
             </p>
             <p className="text-sm md:text-xl flex items-center gap-3">
               <IoMdCall
                 className="bg-[#8b98a5] p-2 rounded-full hover:bg-sky-400 hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={36}
               />
-              <span>
+              <span className='text-white'>
                 {personalData.phone}
               </span>
             </p>
@@ -44,7 +44,7 @@ function ContactSection() {
                 className="bg-[#8b98a5] p-2 rounded-full hover:bg-sky-400 hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={36}
               />
-              <span>
+              <span className='text-white'>
                 {personalData.address}
               </span>
             </p>
