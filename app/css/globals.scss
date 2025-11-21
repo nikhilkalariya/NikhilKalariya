@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: rgb(211, 216, 232);
+  --foreground-rgb: rgb(0, 0, 0);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -14,7 +14,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background-color: rgb(234, 236, 241);
+  background-color: rgb(0, 0, 0);
 }
 
 #sticky-card-1 {
